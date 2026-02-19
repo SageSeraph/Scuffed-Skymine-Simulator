@@ -1,1 +1,1 @@
-game bad 1/5 stars
+Website version: https://sageseraph.github.io/Scuffed-Skymine-Simulator/
