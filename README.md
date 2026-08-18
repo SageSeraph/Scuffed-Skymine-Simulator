@@ -18,9 +18,9 @@ I would like my game to stay as my game, you can still look inside the html file
 
 No. If you would like to recommend the game to a friend, please just link them to this directory. It even makes you look less suspicious than sending them a random html file. There is a reason why there is no license provided.
 
-**Why is only part of Volume Alpha included? Is it a weird licensing thing?**
+**Why is only part of Volume Alpha included?**
 
-Nope! I just couldn't fit the entirety of the album in the game, as there's a 25MB file limit that Github has in repositories.
+I just couldn't fit the entirety of the album in the game, as there's a 25MB file limit that Github has in repositories.
 
 **Rainbow Command Block when?**
 
