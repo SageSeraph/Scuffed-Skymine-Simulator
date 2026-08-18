@@ -6,6 +6,10 @@ Changelog: https://docs.google.com/document/d/1hmKLBuOR98hp-riWyclYmRrB6O8Oo1u_I
 
 ## **FAQ:**
 
+**What is index.html?**
+
+It's the current version of the game. I have to name it that as a limitation of Github Pages.
+
 **Why is this closed source?**
 
 I would like my game to stay as my game, you can still look inside the html file if you're worried about malware.
