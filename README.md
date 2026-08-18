@@ -6,6 +6,10 @@ Changelog: https://docs.google.com/document/d/1hmKLBuOR98hp-riWyclYmRrB6O8Oo1u_I
 
 ## **FAQ:**
 
+**What is Scuffed Skymine Simulator?**
+
+Scuffed Skymine Simulator is a Minecraft idle fangame created entirely within Turbowarp. Its goal is to imitate the style of works within the community during the early-2010s.
+
 **What is index.html?**
 
 It's the current version of the game. I have to name it that as a limitation of Github Pages.
