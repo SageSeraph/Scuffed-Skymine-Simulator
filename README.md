@@ -24,4 +24,4 @@ I just couldn't fit the entirety of the album in the game, as there's a 25MB fil
 
 **Rainbow Command Block when?**
 
-Unfortunately impossible, as the command block is baked into the background as a file size optimization :(
+Unfortunately impossible, as the command block is baked into the background as a file size optimization. :(
